@@ -1,1 +1,1 @@
-Bienvenidos al curso propedutico de git, ithub y javascript
+Bienvenidos al curso propedutico de git, ithub y javascript hola
