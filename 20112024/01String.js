@@ -34,6 +34,6 @@ function contarPalabras(){
 //separaNombreCompleto();
 //invertirCadena();
 //unirCadena();
-//separaCadena();
+//separaCadena();gi
 //ultimaletra();
 contarPalabras();
