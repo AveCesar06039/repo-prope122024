@@ -1,0 +1,12 @@
+.row {
+  display: flex;
+  margin: 20px;
+}
+
+.col1 {
+  background-color: whitesmoke;
+}
+
+.col2 {
+  background-color:whitesmoke;
+}
